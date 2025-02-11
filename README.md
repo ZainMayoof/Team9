@@ -1,2 +1,2 @@
 # Team9
-Zain, Khaled, Mana;, Frayal
+Zain, Khaled, Manal, Frayal
